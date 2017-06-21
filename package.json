@@ -1,0 +1,29 @@
+{
+  "name": "@studyportals/update-submodules",
+  "version": "1.0.0",
+  "description": "Update all submodules for a certain location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studyportals/update-submodules.git"
+  },
+  "keywords": [
+    "git",
+    "submodule",
+    "submodules",
+    "update"
+  ],
+  "author": "StudyPortals B.V.",
+  "license": "SP BSD License",
+  "bugs": {
+    "url": "https://github.com/studyportals/update-submodules/issues"
+  },
+  "homepage": "https://github.com/studyportals/update-submodules#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "gulp": "^3.9.1"
+  }
+}
