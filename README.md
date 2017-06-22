@@ -1,4 +1,4 @@
-# @studyportals/update-submodules@1.0.1
+# @studyportals/update-submodules@1.0.2
 
 [![NPM version](https://img.shields.io/npm/v/@studyportals/update-submodules.svg?style=flat)](https://www.npmjs.com/package/@studyportals/update-submodules "View this project on NPM")
 [![NPM downloads](https://img.shields.io/npm/dm/@studyportals/update-submodules.svg?style=flat)](https://www.npmjs.com/package/@studyportals/update-submodules "View this project on NPM")
@@ -9,4 +9,4 @@
 Update all submodules for a certain location
 
 
-_Package published at: Thu Jun 22 2017 09:26:30 GMT+0200 (DST)_
+_Package published at: Thu Jun 22 2017 09:32:21 GMT+0200 (DST)_
