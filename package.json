@@ -1,10 +1,11 @@
 {
   "name": "@studyportals/update-submodules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Update all submodules for a certain location",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "node node_modules/@studyportals/product-deploy/bin/jsdoc-to-markdown && git add -A"
   },
   "repository": {
     "type": "git",
@@ -23,7 +24,9 @@
   },
   "homepage": "https://github.com/studyportals/update-submodules#readme",
   "devDependencies": {
+    "@studyportals/product-deploy": "^1.1.1",
     "child_process": "^1.0.2",
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "jsdoc-to-markdown": "^3.0.0"
   }
 }
